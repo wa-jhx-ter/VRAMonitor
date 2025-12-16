@@ -65,7 +65,7 @@ VRAMonitor
 
 ## 屏幕截图
 
-![](Screenshots\1.png)
+![](.\Screenshots\1.png)
 
 ![](Screenshots\2.png)
 
